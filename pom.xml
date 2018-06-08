@@ -15,12 +15,12 @@
 
 		<repository>
 			<id>1234</id>
-			<url>http://localhost:8081/nexus/content/repositories/tere/</url>
+			<url>http://192.168.33.1:8081/nexus/content/repositories/tere/</url>
 			
 		</repository>
 		<snapshotRepository>
 			<id>1234</id>
-			<url>http://localhost:8081/nexus/content/repositories/te/</url>
+			<url>http://192.168.33.1:8081/nexus/content/repositories/te/</url>
 			
 		</snapshotRepository>		
   </distributionManagement>
